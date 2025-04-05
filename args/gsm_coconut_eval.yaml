@@ -18,7 +18,7 @@ pad_latent_to_max: True
 
 save_only_improve: False
 uniform_prob: 0.0
-model_id: openai-community/gpt2
+model_id: Qwen/Qwen2.5-1.5B-Instruct
 load_model_path: YOUR_PATH_TO_COCONUT_CHECKPOINT
 seed: 0
 resume: 15
